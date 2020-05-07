@@ -1,0 +1,20 @@
+{
+    "success":true,
+    "data":{
+        "paiements":[
+            {
+                "id":1,
+                "type":1,
+                "nom":"Chèque",
+                "temps": 7
+            },
+            {
+                "id":2,
+                "type":2,
+                "nom":"Virement bancaire",
+                "temps": 3
+            }
+        ]
+    }
+
+}

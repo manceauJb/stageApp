@@ -1,0 +1,21 @@
+{
+    "success":true,
+    "data": [
+        {
+            "vp":true,
+            "img":"https://cdn.pixabay.com/photo/2017/08/30/07/56/money-2696229_960_720.jpg",
+            "name":"Ventes privées",
+            "idVp": "1",
+            "debut": 1583829900000,
+            "fin": 1584866700000
+        },
+        {
+            "vp":true,
+            "img":"https://cdn.pixabay.com/photo/2016/12/20/22/32/holiday-shopping-1921658_1280.jpg",
+            "name":"Ventes SUprivées",
+            "idVp": "2",
+            "debut": 1584829900000,
+            "fin": 1586866700000
+        }
+    ]
+}

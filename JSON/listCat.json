@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "data":[
+        {"id":1,"name":"Fruits","img":"https://cdn.pixabay.com/photo/2015/12/30/11/57/fruit-basket-1114060_960_720.jpg"},
+        {"id":2,"name":"Boissons","img":"https://cdn.pixabay.com/photo/2014/09/26/19/51/coca-cola-462776_960_720.jpg"},
+        {"id":3,"name":"Viandes","img":"https://cdn.pixabay.com/photo/2015/11/07/11/00/meat-1030729_960_720.jpg"},
+        {"id":4,"name":"Légumes","img":"https://cdn.pixabay.com/photo/2015/05/04/10/16/vegetables-752153_960_720.jpg"},
+        {"id":5,"name":"Non-alimentaire","img":"https://cdn.pixabay.com/photo/2015/10/25/14/43/bucket-1005891_960_720.jpg"},
+        {"id":6,"name":"Fruits2","img":"https://cdn.pixabay.com/photo/2015/12/30/11/57/fruit-basket-1114060_960_720.jpg"},
+        {"id":7,"name":"Boissons2","img":"https://cdn.pixabay.com/photo/2014/09/26/19/51/coca-cola-462776_960_720.jpg"},
+        {"id":8,"name":"Viandes2","img":"https://cdn.pixabay.com/photo/2015/11/07/11/00/meat-1030729_960_720.jpg"},
+        {"id":9,"name":"Légumes2","img":"https://cdn.pixabay.com/photo/2015/05/04/10/16/vegetables-752153_960_720.jpg"},
+        {"id":10,"name":"Non-alimentaire2","img":"https://cdn.pixabay.com/photo/2015/10/25/14/43/bucket-1005891_960_720.jpg"}
+    ]
+}

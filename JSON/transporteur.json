@@ -1,0 +1,35 @@
+{
+    "success":true,
+    "data":{
+        "transporteurs":[
+            {
+                "id":1,
+                "nom":"DHL",
+                "type":"Livraison Point-Relais",
+                "prix":1,
+                "relais":true,
+                "temps": 4,
+                "img":"https://cdn.pixabay.com/photo/2015/05/03/03/56/airplane-750753_1280.jpg"
+            },
+            {
+                "id":2,
+                "nom":"TNT",
+                "type":"Livraison Point-Relais",
+                "prix":5,
+                "relais":true,
+                "temps": 2,
+                "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/1280px-TNT_Logo.svg.png"
+            },
+            {
+                "id":3,
+                "nom":"La Poste",
+                "type":"Livraison à domicile",
+                "prix":0,
+                "relais":false,
+                "temps": 7,
+                "img": "https://cdn.pixabay.com/photo/2017/04/25/00/04/mailbox-2258225_1280.jpg"
+            }
+        ]
+    }
+
+}
